@@ -1,0 +1,16 @@
+{
+    "name": "vendor_name/package_name",
+    "description": "description_text",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "author's name",
+            "email": "email@example.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpexcel": "1.8.0",
+        "rmzamora/google-api-php": "dev-master"
+    }
+}

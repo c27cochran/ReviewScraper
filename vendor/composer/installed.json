@@ -1,0 +1,101 @@
+[
+    {
+        "name": "phpoffice/phpexcel",
+        "version": "1.8.0",
+        "version_normalized": "1.8.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/PHPOffice/PHPExcel.git",
+            "reference": "e69a5e4d0ffa7fb6f171859e0a04346e580df30b"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/PHPOffice/PHPExcel/zipball/e69a5e4d0ffa7fb6f171859e0a04346e580df30b",
+            "reference": "e69a5e4d0ffa7fb6f171859e0a04346e580df30b",
+            "shasum": ""
+        },
+        "require": {
+            "ext-xml": "*",
+            "ext-xmlwriter": "*",
+            "php": ">=5.2.0"
+        },
+        "time": "2014-03-02 15:22:49",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-0": {
+                "PHPExcel": "Classes/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "LGPL"
+        ],
+        "authors": [
+            {
+                "name": "Maarten Balliauw",
+                "homepage": "http://blog.maartenballiauw.be"
+            },
+            {
+                "name": "Mark Baker"
+            },
+            {
+                "name": "Franck Lefevre",
+                "homepage": "http://blog.rootslabs.net"
+            },
+            {
+                "name": "Erik Tilt"
+            }
+        ],
+        "description": "PHPExcel - OpenXML - Read, Create and Write Spreadsheet documents in PHP - Spreadsheet engine",
+        "homepage": "http://phpexcel.codeplex.com",
+        "keywords": [
+            "OpenXML",
+            "excel",
+            "php",
+            "spreadsheet",
+            "xls",
+            "xlsx"
+        ]
+    },
+    {
+        "name": "rmzamora/google-api-php",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/rmzamora/GoogleApiPHP.git",
+            "reference": "c121d520ca52f31ce341a1c0013e9e7223433c4c"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/rmzamora/GoogleApiPHP/zipball/c121d520ca52f31ce341a1c0013e9e7223433c4c",
+            "reference": "c121d520ca52f31ce341a1c0013e9e7223433c4c",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.2.7"
+        },
+        "time": "2012-10-09 09:55:25",
+        "type": "library",
+        "installation-source": "source",
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "Apache License"
+        ],
+        "authors": [
+            {
+                "name": "Google Inc.",
+                "email": "info@google.com",
+                "homepage": "http://google.com",
+                "role": "Developer"
+            }
+        ],
+        "description": "Google API for PHP",
+        "homepage": "https://code.google.com/p/google-api-php-client/",
+        "keywords": [
+            "api",
+            "google"
+        ]
+    }
+]
